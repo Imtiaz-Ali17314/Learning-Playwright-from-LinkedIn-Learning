@@ -145,7 +145,7 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/Learning-Playwright.git
+    git clone https://github.com/Imtiaz-Ali17314/Learning-Playwright-from-LinkedIn-Learning
     cd Learning-Playwright-from-LinkedIn-Learning
     ```
 2.  **Install Node Dependencies**:
